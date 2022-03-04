@@ -5,7 +5,7 @@
 ## - Testing with jest and React Testing Library
 
 ## Getting started
-1. Clone the repo
+1. Fork the repo
 
 2.  Run `npm install` to download dependencies
 ```

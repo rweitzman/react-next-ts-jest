@@ -104,19 +104,36 @@
   height: auto
 }
 
-.card:hover,
-.card:focus,
-.card:active {
+.docCard:hover,
+.docCard:focus,
+.docCard:active {
   color: red;
   border-color: red;
 }
 
-.card h2 {
+.docCard h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
 }
 
-.card p {
+.arrayCard p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+.arrayCard:hover,
+.arrayCard:focus,
+.arrayCard:active {
+  color: red;
+  border-color: red;
+}
+
+.arrayCard h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.arrayCard p {
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
