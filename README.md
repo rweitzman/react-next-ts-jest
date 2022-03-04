@@ -4,11 +4,12 @@
 **You Can Use As Little Or As Much As You Need**
 
 This is just a boiler plate set up project that contains a starter API call/render to help get you started on building out a project. It contains the following:
-- React.js - framework for state management
-- Next.js - for routing and API
+- React.js - framework for building user interfaces
+- Next.js - static and server side rendering w/ routing
 - Jest - for testing
-- Typescript - for strong typing Javascript
-- ESLint - for formating (you can use Prettier instead if you like)
+- Typescript - for strongly typed JavaScript
+- ESLint - to quickly find problems
+- Prettier - for quick and easy code formatting 
 
 It has a API route's data already rendering, so you can feel free to mess around with that to start with.
 
