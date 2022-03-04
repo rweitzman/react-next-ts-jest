@@ -12,12 +12,10 @@ const Home: FC<{ characters: Character[] }> = ({ characters }) => (
   <div className={styles.container}>
     <Head>
       <title>Robin Weitzman Next App with Jest/TS Boiler Plate</title>
-      {/* change icon to...?? */}
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <main className={styles.main}>
       <h1 className={styles.title}>
-        {/* change the url */}
         Welcome to Robin Weitzman's <a href="https:nextjs.org">Next/Jest/Ts Boiler Plate Code! </a>
       </h1>
 
